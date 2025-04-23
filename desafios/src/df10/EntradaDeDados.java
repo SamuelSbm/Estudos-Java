@@ -37,9 +37,9 @@ public class EntradaDeDados {
 
         double average = (double) sum / count;
 
+        System.out.println("Resultado: \n");
 
         System.out.println("=========================");
-        System.out.println("Resultado: \n");
         System.out.println("Total de Valores: " + count);
         System.out.println("Total de números Pares: " + pair );
         System.out.println("Total de números Ímpares: " + odd);
