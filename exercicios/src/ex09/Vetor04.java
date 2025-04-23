@@ -10,7 +10,7 @@ public class Vetor04 {
             System.out.print(v + " ");
         }
         System.out.println(" ");
-        int p = Arrays.binarySearch(vet, 8);     // Usado para buscar o valo em um determinado bloco do vetor
+        int p = Arrays.binarySearch(vet, 8);     // Usado para buscar o valor em um determinado bloco do vetor
         System.out.println("Encontrei o valor na posição " + p);
     }
 }
